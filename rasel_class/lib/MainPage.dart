@@ -1,5 +1,5 @@
 import 'package:flutter/material.dart';
-import 'package:flutter_widget_class/alert_dialog.dart';
+import 'package:rasel_class/alert_dialog.dart';
 
 
 class MainPage extends StatefulWidget {
